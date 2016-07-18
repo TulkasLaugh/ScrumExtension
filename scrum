@@ -1,0 +1,5 @@
+#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+
+# Execute program in python
+
+inputArguments = sys.argv
