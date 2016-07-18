@@ -3,3 +3,8 @@
 # Execute program in python
 
 inputArguments = sys.argv
+
+if (sys.argv[1] == "--help")
+{
+  print("usage: scrum [<file-path>] [--help]")
+}
